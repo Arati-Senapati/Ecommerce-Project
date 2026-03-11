@@ -53,7 +53,7 @@ Each product includes:
 * Rating
 * Wishlist icon
 * Price
-* 
+  
 ### ⭐ Client Review
 Customer testimonial with profile image.
 
@@ -72,7 +72,7 @@ The website is fully responsive using **CSS media queries** for:
 * Tablets
 * Mobile devices
 * Small screens
-* 
+ 
 # 🚀 How to Run the Project
 1. Download or clone the repository
 
@@ -90,4 +90,4 @@ This project was created to practice:
 This project is free to use for **learning and educational purposes**.
 
 # 👨‍💻 Author
-Developed by **Your Name**
+Developed by Arati Senapati
